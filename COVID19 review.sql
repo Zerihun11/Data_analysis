@@ -172,6 +172,7 @@ New_vaccinations numeric,
 RollingPeopleVaccinations numeric
 )
 INSERT INTO #PercentPopulationVaccinated
-SELECT Vac.continent, Vac.location, Vac.date , Vac.population,Vac.new_vaccinations,SUM(convert(numeric, Vac.new_vaccinations)) over (partition by date,Location Order by Vac.Location) as RollingPeopleVaccinations
+SELECT Vac.continent, Vac.location, Vac.date , Vac.population,Vac.new_vaccinations,SUM(convert(numeric,
+       Vac.new_vaccinations)) over (partition by date,Location Order by Vac.Location) as RollingPeopleVaccinations
 
-from portfolio_projects..[covid19_vacination_data] as Vac
+FROM portfolio_projects..[covid19_vacination_data] as Vac
