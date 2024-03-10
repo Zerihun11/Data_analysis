@@ -1,4 +1,4 @@
-# Data-analyst
+# Data-analysis
 Covid_19 Cases
 ![image](https://github.com/Zerihun11/Data-analyst/assets/94690108/9777bc04-44f3-40bf-b9a8-62845128c3fa)
 Covid_19 Deaths
