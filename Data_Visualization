@@ -1,8 +1,37 @@
 # Internet_2022_country_list
-##### TOP 15 COUNTRY per Internet Users Number
+#### TOP 15 COUNTRY per Internet Users Number
 SELECT TOP (15) [country]
       ,[InternetUsersNumberOfInternetUsers]
       ,[InternetTraffic12-31-2020]
       ,[InternetTrafficPercofResidentsWithInternetAccess]
   FROM [portfolio_projects].[dbo].[internet_users_by_country_2024]
   Order by InternetUsersNumberOfInternetUsers DESC
+
+### TOP 15 AFRICANS per Internet Users Number
+SELECT TOP (15) [country]
+      ,[InternetUsersNumberOfInternetUsers]
+      ,[InternetTraffic12-31-2020]
+      ,[InternetTrafficPercofResidentsWithInternetAccess]
+  FROM [portfolio_projects].[dbo].[internet_users_by_country_2024]
+  WHERE Location = 'africa'
+  Order by InternetUsersNumberOfInternetUsers DESC
+
+### TOP 15 AFRICANS INTERNET USER per %Of population
+SELECT TOP (15) [country]
+      ,[InternetUsersNumberOfInternetUsers]
+      ,[InternetTraffic12-31-2020]
+      ,[InternetTrafficPercofResidentsWithInternetAccess]
+  FROM [portfolio_projects].[dbo].[internet_users_by_country_2024]
+  WHERE Location = 'africa'
+  Order by InternetTrafficPercofResidentsWithInternetAccess DESC
+
+### TOP 15 INTERNET USER per %Of population
+
+SELECT TOP (15) [country]
+      ,[InternetUsersNumberOfInternetUsers]
+      ,[InternetTraffic12-31-2020]
+      ,[InternetTrafficPercofResidentsWithInternetAccess]
+  FROM [portfolio_projects].[dbo].[internet_users_by_country_2024]
+  Order by InternetTrafficPercofResidentsWithInternetAccess DESC
+
+
