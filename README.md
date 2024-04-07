@@ -38,7 +38,7 @@ Outcome: Provided insights into population growth and demographics, aiding in ur
 ### Technical Tools
   #### Programming Languages: Python, R
   #### Data Visualization: Tableau, Power BI
-  #### Database Management: SQL Server
+  #### Database Management: SQL Server, MYSQL 
   #### Statistical Analysis: Excel, SPSS
 ## Contact Information
 Email: [zerihun699@gnail.com]
