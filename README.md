@@ -1,4 +1,4 @@
-___#** Data-analysis**_
+#Data-analysis
 Overview
 Highly motivated and detail-oriented junior data analyst with strong analytical skills and a passion for transforming complex data into actionable insights. Proficient in utilizing statistical tools and programming languages to analyze and interpret data, identify trends, and create visualizations. Experienced in data cleaning, data visualization, and reporting. Committed to continuous learning and applying advanced analytical techniques to drive business growth and improve decision-making processes.
 
@@ -26,6 +26,8 @@ Outcome: Provided insights into the spread and impact of COVID-19, aiding in pub
 #### Description: Conducted analysis of inflation rate and Consumer Price Index (CPI) data to understand economic trends.
 Tools Used: SQL Server management studio, Python (Pandas), Excel
 Outcome: Provided insights into economic stability and purchasing power, aiding in economic policy-making.
+![last](https://github.com/Zerihun11/Data_analysis/assets/94690108/fa7dc0d8-1593-4a89-9074-1b41272248a0)
+
 ### Project 3: World Population Analysis
 #### Description: Analyzed world population data to identify population trends across different regions and countries.
 Tools Used: SQL Server management studio, Python (Pandas), Excel
@@ -40,6 +42,3 @@ Statistical Analysis: Excel, SPSS
 ## Contact Information
 Email: [zerihun699@gnail.com]
 LinkedIn: [www.linkedin.com/in/zerihun7]
-
-
-__
