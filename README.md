@@ -3,12 +3,12 @@ Overview
 Highly motivated and detail-oriented junior data analyst with strong analytical skills and a passion for transforming complex data into actionable insights. Proficient in utilizing statistical tools and programming languages to analyze and interpret data, identify trends, and create visualizations. Experienced in data cleaning, data visualization, and reporting. Committed to continuous learning and applying advanced analytical techniques to drive business growth and improve decision-making processes.
 
 ## Key Skills
- ### -> Data Cleaning and Preprocessing
- ### -> Statistical Analysis
- ### -> Data Visualization
+ ### Data Cleaning and Preprocessing
+ ### Statistical Analysis
+ ### Data Visualization
     Tableau
     Power BI
- ### -> Programming Languages
+ ### Programming Languages
      Python
      R
  ### -> Database Management
