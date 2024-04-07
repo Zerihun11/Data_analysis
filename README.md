@@ -1,5 +1,5 @@
 # Data_analysis
-Overview
+#### Overview
 Highly motivated and detail-oriented junior data analyst with strong analytical skills and a passion for transforming complex data into actionable insights. Proficient in utilizing statistical tools and programming languages to analyze and interpret data, identify trends, and create visualizations. Experienced in data cleaning, data visualization, and reporting. Committed to continuous learning and applying advanced analytical techniques to drive business growth and improve decision-making processes.
 
 ## Key Skills
@@ -11,12 +11,12 @@ Highly motivated and detail-oriented junior data analyst with strong analytical 
  ### Programming Languages
      Python
      R
- ### -> Database Management
+ ### Database Management
      SQL
- ### -> Statistical Analysis
+ ### Statistical Analysis
      Excel, SPSS
- ### -> SQL Database Management
- ### -> Report Generation and Presentation
+ ### SQL Database Management
+ ### Report Generation and Presentation
 ## Projects
 ### Project 1: COVID-19 Cases Analysis
 #### Description: Analyzed COVID-19 cases data to identify trends and patterns.
