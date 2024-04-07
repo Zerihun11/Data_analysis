@@ -28,7 +28,7 @@ Tools Used: SQL Server management studio, Python (Pandas), Excel
 Outcome: Provided insights into economic stability and purchasing power, aiding in economic policy-making.
 
 ![last](https://github.com/Zerihun11/Data_analysis/assets/94690108/fa7dc0d8-1593-4a89-9074-1b41272248a0)
-inflation in Ethiopia.ipynb
+
 ### Project 3: World Population Analysis
 #### Description: Analyzed world population data to identify population trends across different regions and countries.
 Tools Used: SQL Server management studio, Python (Pandas), Excel
