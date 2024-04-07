@@ -3,20 +3,20 @@ Overview
 Highly motivated and detail-oriented junior data analyst with strong analytical skills and a passion for transforming complex data into actionable insights. Proficient in utilizing statistical tools and programming languages to analyze and interpret data, identify trends, and create visualizations. Experienced in data cleaning, data visualization, and reporting. Committed to continuous learning and applying advanced analytical techniques to drive business growth and improve decision-making processes.
 
 ## Key Skills
- -> Data Cleaning and Preprocessing
- -> Statistical Analysis
- -> Data Visualization
+ ### -> Data Cleaning and Preprocessing
+ ### -> Statistical Analysis
+ ### -> Data Visualization
     Tableau
     Power BI
- -> Programming Languages
+ ### -> Programming Languages
      Python
      R
- -> Database Management
+ ### -> Database Management
      SQL
- -> Statistical Analysis
+ ### -> Statistical Analysis
      Excel, SPSS
- -> SQL Database Management
- -> Report Generation and Presentation
+ ### -> SQL Database Management
+ ### -> Report Generation and Presentation
 ## Projects
 ### Project 1: COVID-19 Cases Analysis
 #### Description: Analyzed COVID-19 cases data to identify trends and patterns.
@@ -26,6 +26,7 @@ Outcome: Provided insights into the spread and impact of COVID-19, aiding in pub
 #### Description: Conducted analysis of inflation rate and Consumer Price Index (CPI) data to understand economic trends in Ethiopia.
 Tools Used: SQL Server management studio, Python (Pandas), Excel
 Outcome: Provided insights into economic stability and purchasing power, aiding in economic policy-making.
+
 ![last](https://github.com/Zerihun11/Data_analysis/assets/94690108/fa7dc0d8-1593-4a89-9074-1b41272248a0)
 
 ### Project 3: World Population Analysis
